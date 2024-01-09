@@ -1,4 +1,8 @@
 <div align="center">
+
+ ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=B9E9FC&text=OVTRIP✈️&textBg=false&fontAlign=50&fontSize=70)
+
+
 <h2>
 	간편한 여행 계획 관리 서비스, OvTrip ✈️
 </h2>
