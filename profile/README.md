@@ -82,7 +82,7 @@ OvTrip은 편리하게 여행 계획을 짤 수 있는 **여행 계획 관리 �
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center" style="font-weight: bold; font-size: 18;">마이페이지/td>
+      <td align="center" style="font-weight: bold; font-size: 18;">마이페이지</td>
       <td align="center" style="font-weight: bold; font-size: 18;">여행 계획 페이지</td>
     </tr>
     <tr>
